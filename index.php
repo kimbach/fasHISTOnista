@@ -5,6 +5,11 @@ echo '	<meta http-equiv="content-type" content="text/html; charset=utf-8" />';
 echo '	<link href="fashistorista.css" rel="stylesheet" />';
 echo "</head>";
 echo "<body>";
+?>
+<p>
+<a href="https://github.com/kimbach/fasHISTOnista.git">Fork me on GitHub!</a>
+</p>
+<?php
 
     global $score;
 
